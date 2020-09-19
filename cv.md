@@ -4,7 +4,9 @@
     * Email: crank-line@rambler.ru
     * telegram: @VB_Victoria
 ## Summary:
-
+My goal for this course is to try myself in front-end development and change my career.
+I like to learn something new and I am able to do it. I have a well-developed logical thinking
+and I am sure I can become a good programmer. 
 ## Skills:
     * HTML
     * CSS
