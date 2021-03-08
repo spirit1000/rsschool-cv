@@ -1,1 +1,1 @@
-[rsschool-cv](https://VictoriaVosipova.github.io/rsschool-cv/cv)
+[rsschool-cv](https://spirit1000.github.io/rsschool-cv/cv)
